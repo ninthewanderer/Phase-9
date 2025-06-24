@@ -11,7 +11,7 @@ Throughout my time working on the project, I learned and implemented the followi
 - Implementation of the Durstenfeld shuffle algorithm for deck-shuffling
 - Turn-based system implementation with decision-making
 - Parsing through and printing data from a text file to display a leaderboard
-- Usage and creation of header files in C to keep code organized and concise
+- Usage and creation of header files to keep code organized and concise
 - Utilizing pointers and dynamic memory allocation for streamlined and mindful memory management
 - Usage of structure data type to organize player information
 
