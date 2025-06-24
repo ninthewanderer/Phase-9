@@ -1,4 +1,4 @@
-# Phase-9
+# Phase 9
 
 This project was worked on over the course of the entire semester, every assignment providing us with an opportunity to apply our newfound knowledge. The goal was to iterate on this project as we learned new concepts, allowing us to expand our understanding of C and computer science as a whole. The game is based off of the classic card game Phase 10, although in our version we reduced it to 9 phases since we did not implement a color system--hence the name Phase 9.
 
